@@ -39,6 +39,10 @@
   * Use a `type` field to distinguish record kinds (e.g., `"schedule_weekday"`, `"audit_task"`)
   * Simplify export loops by iterating over one database
 
+## 5. Integrate Time Logging?
+
+  * https://gtimelog.org/docs.html
+
 ## Next Steps
 
 1. Refactor existing scripts into modules and functions
